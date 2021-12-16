@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VogCodeChallenge.ConsoleApp/1.0.0": {
+        "runtime": {
+          "VogCodeChallenge.ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VogCodeChallenge.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
