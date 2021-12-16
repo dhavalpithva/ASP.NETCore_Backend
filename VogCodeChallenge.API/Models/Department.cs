@@ -8,14 +8,7 @@ namespace VogCodeChallenge.API.Models
 {
     public class Department
     {
-        public Department()
-        {
-            this.Employees = new List<Employee>();
-        }
-
         public int DepartmentId { get; set; }
         public string DepartmentName { get; set; }
-
-        public List<Employee> Employees { get; set; }
     }
 }
