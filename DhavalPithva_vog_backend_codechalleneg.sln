@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VogCodeChallenge.API", "VogCodeChallenge.API\VogCodeChallenge.API.csproj", "{4DEE7042-4E63-45E7-AF99-41CD02FE863A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEE7042-4E63-45E7-AF99-41CD02FE863A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEE7042-4E63-45E7-AF99-41CD02FE863A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEE7042-4E63-45E7-AF99-41CD02FE863A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEE7042-4E63-45E7-AF99-41CD02FE863A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7581CABF-CE4C-4253-987F-88DF41650476}
+	EndGlobalSection
+EndGlobal
