@@ -11,8 +11,14 @@ namespace VogCodeChallenge.API.Services
     {
         List<Department> departments;
         List<Employee> employees;
-        public EmployeeService()
+
+        readonly EFDataContext _dbContext;
+        public EmployeeService(EFDataContext efDataContext)
         {
+
+            _dbContext = efDataContext;
+
+            //Sample Data
             departments = new List<Department>(new Department[] {
             new Department() { DepartmentId = 1, DepartmentName = "Sales" },
             new Department() { DepartmentId = 3, DepartmentName = "Manager" },
@@ -60,13 +66,17 @@ namespace VogCodeChallenge.API.Services
 
         public IEnumerable<Employee> GetAll()
         {
-            // This will be used to get the data from DB. 
+            /* This will be used to get the data from DB. Kept this as commented because of No Database implementation
+                return this._dbContext.Employees.ToList();
+            */
             return employees.ToList();
         }
 
         public IList<Employee> ListAll()
         {
-            // This will be used to get the data from DB. 
+            /* This will be used to get the data from DB. Kept this as commented because of No Database implementation
+                return this._dbContext.Employees.ToList();
+            */
             return employees.ToList();
         }
     }
