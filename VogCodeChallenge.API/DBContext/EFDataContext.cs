@@ -16,10 +16,5 @@ namespace VogCodeChallenge.API.DBContext
         public DbSet<Department> Departments { get; set; }
 
         public DbSet<Employee> Employees { get; set; }
-
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    optionsBuilder.UseSqlServer(@"data source=xxx; initial catalog=EFCrudDemo;persist security info=True;user id=sa;password=ssss;");
-        //}
     }
 }

@@ -1,0 +1,13 @@
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\bin\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.exe
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\bin\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.deps.json
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\bin\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.runtimeconfig.json
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\bin\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.runtimeconfig.dev.json
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\bin\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.dll
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\bin\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.pdb
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\obj\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.csprojAssemblyReference.cache
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\obj\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.AssemblyInfoInputs.cache
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\obj\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.AssemblyInfo.cs
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\obj\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\obj\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.dll
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\obj\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.pdb
+D:\Project\DhavalPithva_vog_backend_codechalleneg\VogCodeChallenge.ConsoleApp\obj\Debug\netcoreapp3.1\VogCodeChallenge.ConsoleApp.genruntimeconfig.cache
